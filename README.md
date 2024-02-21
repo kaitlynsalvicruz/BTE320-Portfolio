@@ -7,3 +7,6 @@ Added the "Projects" file which contains code for various little projects. Inclu
 Added the "Deposit_with_Interest_Rates" file which contains code for a program which allows a user to see how much money they will have in their account (with interest) after a year given certain conditions.
 
 Added "Calculator" file which is a program that is a calculator which meets certain outlined conditions.
+
+## February 21st, 2024
+Added the "Date_Program" file which is a program that when a date is entered, returns the month, day, and year of the date.
