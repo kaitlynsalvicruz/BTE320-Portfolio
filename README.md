@@ -10,3 +10,6 @@ Added "Calculator" file which is a program that is a calculator which meets cert
 
 ## February 21st, 2024
 Added the "Date_Program" file which is a program that when a date is entered, returns the month, day, and year of the date.
+
+##February 23rd, 2024
+Added the "Characters Test" file which is a program which displays characters which are in both strings.
