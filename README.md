@@ -13,3 +13,6 @@ Added the "Date_Program" file which is a program that when a date is entered, re
 
 ## February 23rd, 2024
 Added the "Characters Test" file which is a program which displays characters which are in both strings.
+
+## February 28th, 2024
+Added the "List_Creator" file which is a program that begins with an empty list and then asks for users for integer inputs which will repeatedly append the list until the user enters 0.
