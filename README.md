@@ -17,5 +17,5 @@ Added the "Characters Test" file which is a program which displays characters wh
 ## February 28th, 2024
 Added the "List_Creator" file which is a program that begins with an empty list and then asks for users for integer inputs which will repeatedly append the list until the user enters 0.
 
-##March 4th, 2024
+## March 4th, 2024
 Added the "Creating_A_Dictionary_from_Two_Predefined_Variables" which is a program that populates an empty list with key-value pairs that correspond to two predefined variables.
