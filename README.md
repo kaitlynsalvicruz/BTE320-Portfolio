@@ -19,3 +19,6 @@ Added the "List_Creator" file which is a program that begins with an empty list 
 
 ## March 4th, 2024
 Added the "Creating_A_Dictionary_from_Two_Predefined_Variables" which is a program that populates an empty list with key-value pairs that correspond to two predefined variables.
+
+## April 3rd, 2024
+Added "ProblemSet1" which is various programs compiled into one assignment.
