@@ -22,3 +22,6 @@ Added the "Creating_A_Dictionary_from_Two_Predefined_Variables" which is a progr
 
 ## April 3rd, 2024
 Added "ProblemSet1" which is various programs compiled into one assignment.
+
+## April 5th, 2024
+Added "Recursive_Practices" which is a culmination of recursive programs (and in some cases, their loop complements) which complete a series of recursive tasks.
