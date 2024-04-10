@@ -25,3 +25,6 @@ Added "ProblemSet1" which is various programs compiled into one assignment.
 
 ## April 5th, 2024
 Added "Recursive_Practices" which is a culmination of recursive programs (and in some cases, their loop complements) which complete a series of recursive tasks.
+
+## April 10th, 2024
+Added "Try_Except_Example" which is a program that nests a try/except within the function.
