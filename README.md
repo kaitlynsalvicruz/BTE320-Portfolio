@@ -28,3 +28,6 @@ Added "Recursive_Practices" which is a culmination of recursive programs (and in
 
 ## April 10th, 2024
 Added "Try_Except_Example" which is a program that nests a try/except within the function.
+
+## April 17th, 2024
+Added "PandasAssignment_Salvi_Cruz,_Kaitlyn" which is an assignment using the Pandas module.
