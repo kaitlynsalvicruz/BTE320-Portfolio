@@ -31,3 +31,6 @@ Added "Try_Except_Example" which is a program that nests a try/except within the
 
 ## April 17th, 2024
 Added "PandasAssignment_Salvi_Cruz,_Kaitlyn" which is an assignment using the Pandas module.
+
+## April 24th, 2024
+Added "Class_Examples_Point_and_Mortgage_" which is a collection of programs which work with creating classes (super and sub-classes) and their attributes & methods.
